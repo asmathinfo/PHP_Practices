@@ -9,7 +9,7 @@
 <body>
     <h1 align ="center">Hello This Buhary Asmath this is First Programming in PHP</h1>
     <h1 align ="center">Hello This Buhary Asmath this is First Programming in PHP</h1>
-    <h1 align ="center">Hello This Buhary Asmath this is First Programming in PHP</h1>
+    <h3 align ="center">HTML Comments</h3>
 
 <?php
 
